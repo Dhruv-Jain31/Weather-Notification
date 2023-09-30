@@ -1,1 +1,4 @@
+#importing modules
+import time
+from tkinter import*
 
